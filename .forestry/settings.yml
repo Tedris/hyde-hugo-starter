@@ -14,6 +14,10 @@ sections:
   label: Pages
   create: all
   match: "*.md"
+- type: document
+  path: config.toml
+  label: Site Configuration
+  match: "**/*"
 - type: heading
   label: Documentation
 - type: document
