@@ -1,7 +1,8 @@
 ---
 categories: jekyll update
-date: "2016-02-27T17:14:00Z"
+date: 2016-02-27T17:14:00Z
 title: Tedris does gaming
+
 ---
 So I'm going to try a gaming post here.  Maybe talk about some stuff I've been playing lately, see if I can embed some stuff, figure out markdown, etc.
 
@@ -9,7 +10,7 @@ Haven't done this stuff since I worked on a custom blog a long time ago, so it's
 
 So here's some stuff I've been doing in Minecraft:
 
-![CurseVoice modpacks](/images/minecraftModpacks.JPG)
+![](/uploads/minecraftModpacks.JPG)
 
 Oh man, that was neat.  I think I like how this works so far, maybe I'll figure out how to make the page look a little neater and maybe put the posts in a better format to get to all the articles.
 
