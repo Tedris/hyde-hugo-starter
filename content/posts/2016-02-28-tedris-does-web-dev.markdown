@@ -1,7 +1,10 @@
 ---
-categories: jekyll update
-date: "2016-02-28T11:28:00Z"
+categories:
+- jekyll
+- update
+date: 2016-02-28T11:28:00Z
 title: Tedris does web development!
+
 ---
 Hey everyone!  Let's talk about what I do for a living.
 
