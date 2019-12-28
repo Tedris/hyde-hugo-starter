@@ -1,6 +1,8 @@
 ---
-categories: jekyll update
-date: 2016-02-27T17:14:00Z
+categories:
+- jekyll
+- update
+date: 2016-02-27T17:14:00.000+00:00
 title: Tedris does gaming
 
 ---
