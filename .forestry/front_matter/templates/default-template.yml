@@ -1,0 +1,13 @@
+---
+label: Default Template
+hide_body: false
+fields:
+- type: text
+  name: categories
+  label: categories
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
