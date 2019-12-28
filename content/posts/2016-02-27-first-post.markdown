@@ -1,7 +1,10 @@
 ---
-categories: jekyll update
-date: "2016-02-27T16:37:00Z"
+categories:
+- jekyll
+- update
+date: 2016-02-27T16:37:00Z
 title: My first post!
+
 ---
 So I've been playing around with this site, it's pretty cool so far.
 
